@@ -12,11 +12,13 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
@@ -27,4 +29,8 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
