@@ -20,6 +20,7 @@ This repository is specifically created to store my leetcode solutions
 | [0075-sort-colors](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -93,4 +94,8 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
