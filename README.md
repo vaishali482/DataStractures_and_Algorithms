@@ -6,6 +6,7 @@ This repository is specifically created to store my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0709-to-lower-case) |
 ## Array
@@ -15,6 +16,7 @@ This repository is specifically created to store my leetcode solutions
 | [0011-container-with-most-water](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
@@ -39,6 +41,7 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
 ## Quicksort
@@ -65,5 +68,6 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
