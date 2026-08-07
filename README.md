@@ -18,6 +18,7 @@ This repository is specifically created to store my leetcode solutions
 | [0042-trapping-rain-water](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ This repository is specifically created to store my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -98,4 +100,8 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
