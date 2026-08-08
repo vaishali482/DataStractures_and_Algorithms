@@ -23,6 +23,7 @@ This repository is specifically created to store my leetcode solutions
 | [0217-contains-duplicate](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,8 @@ This repository is specifically created to store my leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vaishali482/DataStractures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
